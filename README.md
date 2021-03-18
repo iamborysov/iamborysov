@@ -1,5 +1,7 @@
-### Hi there 👋
+### Приветствую 👋
 
+- 🔭 Сейчас работаю над проектом VOLNET
+- 🌱 Учю JavaScript и Python
 <!--
 **iamborysov/iamborysov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
