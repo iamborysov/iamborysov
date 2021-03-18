@@ -1,8 +1,14 @@
-### Приветствую 👋
+# Приветствую 👋
  
 ### Немножко информации обо мне 📫
-- 🔭 Сейчас работаю над проектом VOLNET
-- 🌱 Учю JavaScript и Python
+ - 🔭 Сейчас работаю над проектом VOLNET
+ - 🌱 Учю JavaScript и Python
+ - ⚡ Програмист и музыкант в @Odyneft
+
+### Мои соц-сети 💬
+ - Телеграм - https//:t.me/borysovmind
+ - Сайт - volnet.tk 
+ - Дискорд сервер - https://discord.gg/VssJuyKdDq
 <!--
 **iamborysov/iamborysov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
