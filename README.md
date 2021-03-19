@@ -7,7 +7,7 @@
 
 ### Мои соц-сети 💬
  - Телеграм - https://t.me/borysovmind
- - Сайт - volnet.tk 
+ - Сайт - https://volnet.tk 
  - Дискорд сервер - https://discord.gg/VssJuyKdDq
 <!--
 **iamborysov/iamborysov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
